@@ -16,7 +16,7 @@ Learn how to connect different network devices using the correct cable types and
 
 ## 🌐 Network Topology
 
-![Topology](day02-topology.png)
+![Topology](Lab-02.png)
 
 ---
 
